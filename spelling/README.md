@@ -1,8 +1,14 @@
-## SpellChecker
+# Sistema de Corretor ortográfico
 
 Neste trabalho, foi feito um projeto em Java para servir como corretora
 ortográca (spellchecker ) para alguma aplicação de texto (como um processador
 de texto, p. ex.). Trabalho realizado seguindo os passos do pdf "TP_spellchecker"
+
+## Classes
+
+## SpellChecker
+
+Responsável por verificar o dicionário de palavras. Realiza operações como contagem, verificação de existência e comparação de palavras.
 
 ### Métodos
 
