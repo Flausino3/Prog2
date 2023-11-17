@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Horario
+comment0.text=\r\n\ Classe\ que\ representa\ um\ hor\u00E1rio\ com\ horas\ e\ minutos.\r\n\ Classe\ utilizada\ no\ m\u00E9todo\ imprimirTicket\ da\ classe\ parquimetro.\r\n
+comment1.params=horaAtual\ minutoAtual
+comment1.target=Horario(int,\ int)
+comment1.text=\r\n\ Construtor\ da\ classe\ Horario.\r\n\ @param\ horaAtual\ A\ hora\ inicial.\r\n\ @param\ minutoAtual\ Os\ minutos\ iniciais.\r\n
+comment2.params=adiarMinutos
+comment2.target=void\ adiarHorario(int)
+comment2.text=\r\n\ Adia\ o\ hor\u00E1rio\ em\ um\ n\u00FAmero\ espec\u00EDfico\ de\ minutos.\r\n
+comment3.params=
+comment3.target=java.lang.String\ mostrarHorario()
+comment3.text=\r\n\ Retorna\ uma\ string\ que\ representa\ o\ hor\u00E1rio\ no\ formato\ "HH\:MM".\r\n
+numComments=4

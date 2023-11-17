@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Parquimetro
+comment1.params=pre\u00E7oDaFra\u00E7\u00E3o\ codigoArea\ ticketMaximo
+comment1.target=Parquimetro(int,\ int,\ int)
+comment1.text=\r\n\ Constr\u00F3i\ um\ novo\ objeto\ Parquimetro\ com\ o\ pre\u00E7o\ unit\u00E1rio\ configurado.\r\n\ @param\ ticketMaximo\ Tempo\ m\u00E1ximo\ do\ ticket\ do\ parqu\u00EDmetro.\r\n
+comment2.params=quantia
+comment2.target=void\ inserirDinheiro(int)
+comment2.text=\r\n\ Insere\ a\ quantia\ especificada\ de\ dinheiro\ no\ parqu\u00EDmetro.\r\n
+comment3.params=
+comment3.target=void\ aumentarTempo()
+comment3.text=\r\n\ Aumenta\ o\ tempo\ solicitado\ em\ incrementos\ espec\u00EDficos\ e\ atualiza\ o\ pre\u00E7o\ total\ a\ ser\ pago.\r\n
+comment4.params=horaAtual\ minutoAtual
+comment4.target=void\ imprimirTicket(int,\ int)
+comment4.text=\r\n\ Imprime\ um\ ticket\ de\ estacionamento\ com\ informa\u00E7\u00F5es\ sobre\ o\ in\u00EDcio\ e\ o\ fim\ do\ tempo\ de\ estacionamento.\r\n\ @param\ horaAtual\ A\ hora\ atual.\r\n\ @param\ minutoAtual\ Os\ minutos\ atuais.\r\n
+comment5.params=
+comment5.target=int\ devolverTroco()
+comment5.text=\r\n\ Devolve\ o\ troco\ ao\ cliente\ e\ ajusta\ o\ balan\u00E7o.\r\n\ @return\ O\ troco\ a\ ser\ devolvido.\r\n
+comment6.params=
+comment6.target=int\ esvaziar()
+comment6.text=\r\n\ Esvazia\ o\ parqu\u00EDmetro,\ resetando\ o\ balan\u00E7o\ e\ retornando\ o\ total\ acumulado.\r\n\ @return\ O\ total\ acumulado\ no\ parqu\u00EDmetro.\r\n
+numComments=7

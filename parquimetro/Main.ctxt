@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Programa\ de\ exemplo\ que\ demonstra\ o\ uso\ das\ classes\ Horario\ e\ Parquimetro.\r\n\ O\ programa\ cria\ inst\u00E2ncias\ dessas\ classes\ para\ demonstrar\ alguns\ dos\ seus\ funcionamentos.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
