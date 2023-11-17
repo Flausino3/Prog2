@@ -6,7 +6,7 @@ de texto, p. ex.). Trabalho realizado seguindo os passos do pdf "TP_spellchecker
 
 ## Classes
 
-## SpellChecker
+### SpellChecker
 
 Responsável por verificar o dicionário de palavras. Realiza operações como contagem, verificação de existência e comparação de palavras.
 
