@@ -1,6 +1,6 @@
 import java.lang.Math;
 
-public class Retangulo {
+public class Retangulo extends Forma{
     
 private double base;
 private double altura;
